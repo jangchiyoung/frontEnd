@@ -1,0 +1,11 @@
+.name {
+    height: 300px; 
+    width: 400px;
+    margin: auto; 
+    border-collapse: collapse;
+}
+.th,th{
+    border: 1px solid black;
+    text-align: center;
+    width: 100px;
+}
